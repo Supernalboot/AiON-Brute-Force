@@ -4,6 +4,8 @@ A quick script I wrote to interact with the Bungie ARG AiON Database.
 # How to use
 in this repo you will find 3 files: `AiON Manual.py`, `AiONBF.py` and `AiONdatabase.json`.
 
+Please place all 3 files in the same folder for it to work, otherwise a new database file will be created.
+
 `AiON Manual.py` will allow you to manually input a value, and that value will be stored in `AiONdatabase.json`.
 
 `AiONBF.py` is your main file, this will Brute force the input over time and slowly update `AiONdatabase.json`.
